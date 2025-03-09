@@ -28,7 +28,7 @@ To get started with **Crossword Odyssey**, follow these simple steps:
    git clone https://github.com/mdjahidshah/crossword-odyssey.git
    ```
 2. **Open the HTML File**:
-   Open `index.html` in your favorite browser to play the game.
+   Open `index.html` in your favorite browser to play the game or [Click Here]().
 
 ---
 
