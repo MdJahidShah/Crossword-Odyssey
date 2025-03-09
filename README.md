@@ -16,7 +16,7 @@ Crossword Odyssey is an interactive crossword puzzle game designed to challenge 
 
 ## Demo
 ![Crossword Odyssey Demo](https://emeraldgarden.github.io/Images/gardening-tool-crossword-clue.jpg)  
-*(Replace this placeholder with a screenshot or GIF showcasing your game.)*
+*(Crossword Odyssey - Puzzle Game)*
 
 ---
 
