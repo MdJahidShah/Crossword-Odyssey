@@ -90,10 +90,3 @@ Special thanks to:
 
 Start your adventure today and become a crossword legend with **Crossword Odyssey**!
 ```
-
-### Instructions for Use
-- Replace `mdjahidshah` with your GitHub username wherever necessary.
-- Add a screenshot or GIF of your game in the "Demo" section by replacing the `demo-image-placeholder.png` file name with the actual file name (upload the image/GIF to your repo).
-- If you're planning to host the project using GitHub Pages or another service, update the README file with a link to the live demo.
-
-Let me know if you need further assistance with anything! 😊🚀
