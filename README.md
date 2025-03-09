@@ -25,7 +25,7 @@ To get started with **Crossword Odyssey**, follow these simple steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/crossword-odyssey.git
+   git clone https://github.com/mdjahidshah/crossword-odyssey.git
    ```
 2. **Open the HTML File**:
    Open `index.html` in your favorite browser to play the game.
@@ -69,7 +69,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 ## Author
-Developed with ❤️ by [Your Name](https://github.com/yourusername).  
+Developed with ❤️ by [Jahid Shah](https://github.com/mdjahidshah/).  
 Feel free to reach out for questions, suggestions, or just to say hi!
 
 ---
